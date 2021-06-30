@@ -12,6 +12,10 @@
 ### Setting this up
 ### tmux
 
+## Open-source Python package tools
+- [Publishing to PyPi](https://realpython.com/pypi-publish-python-package/)
+- [Generating DOI via Zenodo](https://guides.github.com/activities/citable-code/)
+
 ## AWS
 
 ## MARCC
